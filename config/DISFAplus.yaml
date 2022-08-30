@@ -1,0 +1,17 @@
+
+dataset_path: 'data/DISFA+'   
+num_classes: 12
+learning_rate: 0.001
+iters: 8000
+momentum: 0.9
+weight_decay: 0.0005
+crop_size: 170
+seed: 0
+gpu_ids: '0'
+exp_name: 'Train'
+batch_size: 64
+evaluate: False      #True for testing 
+dataset: 'DISFA+'
+epochs: 20
+resume: 'results/Train/bs_64_seed_0_lr_0.001/best_12au_sgd_01.pth'     #Model path 
+action_units: [1, 2, 4, 5, 6, 9, 12, 15, 17, 20, 25, 26]

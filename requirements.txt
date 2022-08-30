@@ -1,0 +1,8 @@
+numpy ==1.22
+spicy 
+torch==1.12.0+cu113
+tqdm
+Pillow
+pyyaml
+easydict
+torchvision
