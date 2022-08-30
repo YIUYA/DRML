@@ -1,10 +1,5 @@
 # DRML
 This is the implementation of Deep Region and Multi-label Learning for Facial Action Unit Detection using Pytorch based on the DISFA+ dataset.
-## File Structure 
-  Project/  
-    &nbsp;&nbsp;&nbsp;&nbsp;env_file/  
-    &nbsp;&nbsp;&nbsp;&nbsp;DRML/  
-    
     
 ## Environment
 Python 3.9.0  
