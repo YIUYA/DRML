@@ -26,13 +26,13 @@ To install gpu version:
   In the file tool/ provide scripts to processing image and label of dataset DISFA+ and CK+.
   
 ## Experiments
-###Parameters
-optimizer：SGD
-learning rate：0.001
-weight decay：0.005
-momentum：0.9
-epoch：20
-batch size：64
+### Parameters
+optimizer：SGD  
+learning rate：0.001  
+weight decay：0.005  
+momentum：0.9  
+epoch：20  
+batch size：64  
 
 ### Results in DISFA+ 
 Using evaluation metrics: Accuracy/F1-Score 
