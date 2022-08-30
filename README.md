@@ -22,7 +22,7 @@ To install gpu version:
 
 
 ## Preprocessing dataset
-  In the file tool/ provide files to processing image and label of dataset DISFA+ and CK+.
+  In the file tool/ provide scripts to processing image and label of dataset DISFA+ and CK+.
   
 ## Experiments
 ###Parameters
