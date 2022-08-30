@@ -1,8 +1,8 @@
 # DRML
 ## File Structure 
-  Project/
-    env_file/
-    DRML/
+  Project/  
+    env_file/  
+    DRML/  
 
 ## Create env
   `python -m venv env_file`
